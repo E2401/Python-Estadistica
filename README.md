@@ -1,3 +1,9 @@
-# Python-Estadistica
+# Datos Hospiales
+Hizimos un analysis exploratorio de una base de datos de los todos los hospitales de estados unidos.
 
-La pandemia por covid 19 tuvo un impacto a nivel mundial. Pero no todos los paises fueron afectados de igual manera. Usando datos podemos entender mejor como el covid afectó a cada pais.
+
+# Concusion : Emilio
+Descubrimos una mediante a la regresion lineal una relacion directa entre hospitales que tienen heli puerto y hospitales donde hay una tasa de mortalidad mas baja.
+
+# Conclusion : Rey
+
